@@ -1,5 +1,3 @@
-!pip install cryptography
-
 import secrets
 from cryptography.fernet import Fernet
 
